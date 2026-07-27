@@ -1,8 +1,8 @@
-# IT-Support-Home-Lab
+# IT Support Home Lab
 
 ## Overview
 
-This project demonstrates hands-on IT support skills using a home lab built on macOS.
+This project demonstrates hands-on IT support skills through a home lab environment built on macOS. The lab simulates common help desk tasks, including Windows administration, user management, and ticket resolution using industry-standard tools.
 
 ## Technologies
 
@@ -15,15 +15,16 @@ This project demonstrates hands-on IT support skills using a home lab built on m
 ## Skills Demonstrated
 
 - Windows administration
-- Local user management
+- Local user and group management
 - Shared folder permissions
 - Windows Services
 - Docker container deployment
-- GLPI help desk administration
+- Help desk administration
 - Incident management
-- Ticket documentation
+- Technical documentation
 
 ## Lab Environment
+
 
 MacBook Air M4
 │
